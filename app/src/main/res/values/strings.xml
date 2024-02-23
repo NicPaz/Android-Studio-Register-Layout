@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PrimeiroDesign</string>
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email\n</string>
+    <string name="Password" />
+    <string name="Password2">Password</string>
+    <string name="Confirm" />
+    <string name="Confirm2">Confirm</string>
+    <string name="Termos">Aceito os termos de uso da aplicação.</string>
+    <string name="OR" />
+    <string name="OR2">OR\t</string>
+    <string name="Telefone">(00) 00000-0000</string>
+</resources>
